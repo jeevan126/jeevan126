@@ -7,7 +7,7 @@
 - ⚡ Hobby - Meditation
 - 📫 You can contact me through email - jeevansinghjnv@gmail.com
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevan126 &show_icons=true&count_private=true&theme=radical"]</p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=jeevan126 &show_icons=true&count_private=true&theme=radical"</p>
 
 ### My Social Media Handles
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jeevan126/)
