@@ -17,6 +17,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeevan126&show_icons=true&locale=en&layout=compact" alt="jeevan126" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=singh126&show_icons=true&locale=en" alt="singh126" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=singh126&" alt="singh126" /></p>
+
   
 ### My Coding Profiles
 [<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white" />](https://codeforces.com/profile/jeevansingh126/)
