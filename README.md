@@ -1,5 +1,5 @@
 ### Hi Geek!! 
-<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=jeevan126" alt = "jeevansingh" /> </p>
+<p align = "left"> <img src = "https://komarev.com/ghpvc/?username=jeevan126" alt = "jeevan singh" /> </p>
 
 - 👋 I’m Jeevan Singh, final year Undergraduate at IIT Jodhpur.
 - 💻 I love doing competitive programming and learning new algorithms.
