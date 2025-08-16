@@ -4,7 +4,7 @@
 - 👋 I’m Jeevan Singh, final year Undergraduate at IIT Jodhpur.
 - 💻 I love doing competitive programming and learning new algorithms.
 - 🌱 I'm exploring different fields in software development and learning new skills.
-- ⚡ Hobby - Cricker
+- ⚡ Hobby - Cricket
 - 📫 You can contact me through email - jeevansinghjnv@gmail.com
 
 ### My Social Media Handles
